@@ -1,4 +1,7 @@
 # MediaConverter
+
+[![Composer package](http://xn--e1adiijbgl.xn--p1acf/badge/wapmorgan/media-converter)](https://packagist.org/packages/wapmorgan/media-converter)
+
 Audio and video editor, converter to popular formats and preview maker.
 
 ## Installation
